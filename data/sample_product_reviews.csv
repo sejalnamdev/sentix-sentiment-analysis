@@ -1,0 +1,51 @@
+review_id,product_category,product_name,review_text,star_rating,sentiment,primary_aspect
+101,Electronics,SoundBlast Pro Headphones,"The sound quality is absolutely amazing! Deep bass, crystal clear highs, and the battery life lasts well over 30 hours. Highly recommend to any music lover.",5,positive,quality
+102,Electronics,SoundBlast Pro Headphones,"Sound is decent, but the battery died after only 3 months of light usage. Customer service refused to replace it. Horrible experience.",1,negative,battery
+103,Electronics,UltraView 4K Smart TV,"Brilliant display and vibrant colors. The setup was intuitive and took less than 10 minutes. Premium build quality.",5,positive,usability
+104,Electronics,UltraView 4K Smart TV,"Overpriced for what it offers. The remote control is clunky and the software lags constantly when switching between streaming apps.",2,negative,price
+105,Home & Kitchen,AromaMaster Espresso Machine,"Brews fantastic coffee every single morning. Solid stainless steel build, looks sleek on my counter, and worth every penny.",5,positive,quality
+106,Home & Kitchen,AromaMaster Espresso Machine,"Worked great for two weeks, then the water pump stopped working entirely. Leaked all over my kitchen counter. Complete waste of money.",1,negative,quality
+107,Electronics,HyperCharge Power Bank,"Compact and charges my phone very quickly. Perfect for traveling and affordable price.",5,positive,battery
+108,Electronics,HyperCharge Power Bank,"Delivery took three weeks longer than promised. When the package finally arrived, the packaging was completely crushed.",1,negative,delivery
+109,Electronics,NovaBook Slim Laptop,"Lightweight, fast boot times, and handles heavy multitasking smoothly. The screen is gorgeous and comfortable for working long hours.",5,positive,quality
+110,Electronics,NovaBook Slim Laptop,"The laptop overheats within 20 minutes of light web browsing. The fan sounds like a jet engine and the battery barely lasts 2 hours.",1,negative,battery
+111,Apparel,TrailRunner Hiking Shoes,"Extremely comfortable shoes right out of the box. Walked 15 miles in the mountains without a single blister. Super sturdy grip.",5,positive,quality
+112,Apparel,TrailRunner Hiking Shoes,"The sole started detaching after only two weeks of pavement walking. Cheap craftsmanship, very disappointed given the high price tag.",1,negative,quality
+113,Electronics,ClearVoice Wireless Earbuds,"Call quality is okay, but they constantly fall out of my ears while jogging. Battery life is mediocre at best, about 3 hours.",2,negative,battery
+114,Electronics,ClearVoice Wireless Earbuds,"Flawless bluetooth connectivity and the noise cancellation blocks out noisy office chatter. Great value for the money.",4,positive,price
+115,Home & Kitchen,CrispAir Digital Air Fryer,"Cooking has never been this easy! French fries come out crisp and delicious with minimal oil. Cleaning the nonstick basket is effortless.",5,positive,usability
+116,Home & Kitchen,CrispAir Digital Air Fryer,"Extremely complicated digital interface with confusing buttons. The user manual is poorly translated and unhelpful.",2,negative,usability
+117,Electronics,PulseFit Smartwatch,"Tracks steps and heart rate accurately. The companion mobile app is intuitive and syncing is instantaneous.",4,positive,usability
+118,Electronics,PulseFit Smartwatch,"Screen stopped responding after a minor splash of water. Definitely not waterproof as advertised. Cheap plastic build.",1,negative,quality
+119,Accessories,UrbanShield Laptop Backpack,"Spacious compartments, water-resistant fabric, and padded shoulder straps that make carrying heavy gear comfortable. Great price.",5,positive,price
+120,Accessories,UrbanShield Laptop Backpack,"The main zipper broke on the second day of use. Now I cannot even close my bag. Terrible durability.",1,negative,quality
+121,Electronics,GamerX Mechanical Keyboard,"Clicky tactile switches feel phenomenal for typing and gaming. RGB backlighting is customizable and vibrant.",5,positive,quality
+122,Electronics,GamerX Mechanical Keyboard,"Several keys registered double clicks right out of the box. The spacebar feels loose and rattles. Poor quality control.",2,negative,quality
+123,Home & Kitchen,CleanBot Robotic Vacuum,"Saves me hours of housework every week. Navigates around chair legs easily and returns to its charging dock automatically.",5,positive,usability
+124,Home & Kitchen,CleanBot Robotic Vacuum,"Gets stuck under every piece of furniture. The battery runs out before it finishes cleaning a single room.",2,negative,battery
+125,Electronics,ProCam Dash Camera,"Video resolution during daytime and night driving is crystal clear. License plates are easily readable. Safe driving companion.",5,positive,quality
+126,Electronics,ProCam Dash Camera,"The suction cup falls off the windshield whenever the weather gets hot. Memory card reader frequently corrupts recordings.",2,negative,quality
+127,Apparel,AllWeather Windbreaker Jacket,"Lightweight yet effectively blocks harsh winds and light rain. Packs down tiny into its own pocket. Highly recommend.",5,positive,quality
+128,Apparel,AllWeather Windbreaker Jacket,"Sizing runs very small. Ordered an XL and it fits like a medium. Customer service made returning it a hassle.",2,negative,usability
+129,Electronics,ThunderBass Portable Speaker,"Sound is surprisingly loud and clear for such a small speaker. Battery lasts all weekend at the beach.",5,positive,battery
+130,Electronics,ThunderBass Portable Speaker,"Distorts heavily at volumes above 60%. Bluetooth pairing drops every few minutes. Unusable.",1,negative,quality
+131,Home & Kitchen,PureFlow Water Filter Pitcher,"Water tastes crisp and refreshing. The filter replacement indicator is very convenient. Economical and eco-friendly.",4,positive,price
+132,Home & Kitchen,PureFlow Water Filter Pitcher,"Filtering water takes forever, nearly 45 minutes for one pitcher. Replacement filter cartridges are way too expensive.",2,negative,price
+133,Accessories,SlimArmor Phone Case,"Slim profile that still offers solid drop protection. Raised edges protect both the camera lens and screen.",4,positive,quality
+134,Accessories,SlimArmor Phone Case,"The transparent plastic turned yellow within three weeks. Looks ugly and cheap now.",2,negative,quality
+135,Electronics,FastCharge Dual USB-C Charger,"Charges both my laptop and phone simultaneously without heating up. Compact folding plug makes it ideal for travel.",5,positive,battery
+136,Electronics,FastCharge Dual USB-C Charger,"Stopped charging entirely after one month. Sparks came out when plugged into the wall outlet. Dangerous defect.",1,negative,quality
+137,Home & Kitchen,SharpEdge Japanese Chef Knife,"Razor sharp blade that slices through meat and vegetables effortlessly. Perfectly balanced wooden handle.",5,positive,quality
+138,Home & Kitchen,SharpEdge Japanese Chef Knife,"Blade chipped the very first time I cut a butternut squash. Definitely not genuine steel as advertised.",1,negative,quality
+139,Electronics,TrueTone Noise Cancelling Headphones,"Best active noise cancellation on the market. Extremely plush ear cushions allow all-day listening without ear fatigue.",5,positive,quality
+140,Electronics,TrueTone Noise Cancelling Headphones,"The headband snapped after six months of normal use. Replacement parts are not sold separately. Overpriced disappointment.",2,negative,quality
+141,Apparel,FlexFit Athletic Joggers,"Soft breathable fabric with deep zippered pockets so my phone doesn't bounce around during runs. Great fit.",4,positive,usability
+142,Apparel,FlexFit Athletic Joggers,"The stitching along the seam unraveled after the first wash cycle. Low quality material.",1,negative,quality
+143,Electronics,StreamCast 4K Streaming Stick,"Turns any ordinary television into a fast smart TV. Voice remote search works smoothly.",4,positive,usability
+144,Electronics,StreamCast 4K Streaming Stick,"Keeps overheating and rebooting in the middle of movies. Wifi signal reception is weak even close to router.",2,negative,quality
+145,Home & Kitchen,EcoClean Cordless Stick Vacuum,"Lightweight and easy to maneuver under sofas. Suction power on carpets exceeded my expectations.",4,positive,usability
+146,Home & Kitchen,EcoClean Cordless Stick Vacuum,"Battery only lasts 12 minutes on high power mode. Emptying the dustbin is messy and spills dust everywhere.",2,negative,battery
+147,Accessories,ErgoRest Memory Foam Pillow,"Significantly relieved my neck stiffness after just three nights. Holds its shape well and stays cool.",5,positive,quality
+148,Accessories,ErgoRest Memory Foam Pillow,"Has an intense chemical odor that did not dissipate even after airing out on the balcony for a week.",1,negative,quality
+149,Electronics,SonicWave Electric Toothbrush,"Dentist noticed a major reduction in plaque during my checkup. The two-minute vibration timer is very helpful.",5,positive,usability
+150,Electronics,SonicWave Electric Toothbrush,"The charging base stopped working after two months. Replacement brush heads cost almost as much as the whole unit.",2,negative,battery

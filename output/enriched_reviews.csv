@@ -1,0 +1,11 @@
+review_id,asin,product_category,product_name,review_headline,review_text,predicted_sentiment,predicted_star_rating,is_sarcastic,verified_purchase,detected_aspects
+201,B000000000,General,SoundBlast Pro Headphones,,"Sound is clear, but charging takes over 4 hours and battery life is disappointing.",positive,5,False,Y,battery:negative; quality:neutral
+202,B000000001,General,UltraView 4K Smart TV,,"Incredible cinematic display, vibrant OLED colors, and very responsive remote control.",positive,5,False,Y,
+203,B000000002,General,CleanBot Robotic Vacuum,,Delivery arrived damaged and the box looked crushed. Product works okay but customer support was unhelpful.,negative,1,False,Y,delivery:neutral
+204,B000000003,General,AromaMaster Espresso Machine,,Makes heavenly cappuccino with rich velvety foam every morning. Best investment for our kitchen.,positive,5,False,Y,
+205,B000000004,General,TrailRunner Hiking Shoes,,Great shoes if you enjoy having your toes pinched and soles peeling off after two trail walks.,positive,5,False,Y,
+206,B000000005,General,NovaBook Slim Laptop,,"Battery easily lasts full 10 hours of coding. Sleek, fast, and remarkably quiet under load.",positive,5,False,Y,battery:neutral
+207,B000000006,General,FastCharge Dual USB-C Charger,,"Cheap build quality, loose plug that falls out of wall sockets, and gets dangerously hot.",negative,1,False,Y,quality:negative; price:negative
+208,B000000007,General,SlimArmor Phone Case,,Saved my phone from three concrete drops without a scratch! Affordable and looks stylish.,positive,5,False,Y,quality:neutral; price:positive
+209,B000000008,General,EcoClean Cordless Stick Vacuum,,"Suction is decent for hard floors, but the price tag is simply ridiculous compared to competing brands.",positive,5,False,Y,price:neutral
+210,B000000009,General,GamerX Mechanical Keyboard,,Smooth typing experience and durable aluminum frame. Outstanding value for gamers.,positive,5,False,Y,quality:positive; price:positive
